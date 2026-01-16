@@ -1,1 +1,2 @@
-Python Script: Datatypes & Variables Demo                                 ##Purpose of the Repositary           This repositary contains a simply python script that demostrates the basic concepts of Variables datatypes, and string formatting in python. It is intended for beggineners learning how to store data and display it using f-strings.
+Python Script: Datatypes & Variables Demo           
+#Purpose of the Repositary           This repositary contains a simply python script that demostrates the basic concepts of Variables datatypes, and string formatting in python. It is intended for beggineners learning how to store data and display it using f-strings.
